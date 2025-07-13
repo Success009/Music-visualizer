@@ -1,0 +1,6 @@
+{
+  "name": "Audio Visualizer Video Exporter",
+  "description": "Create and export music visualization videos. Upload your own audio, logo, and background to generate a custom MP4 video file.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
